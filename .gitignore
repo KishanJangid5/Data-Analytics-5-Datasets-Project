@@ -1,0 +1,21 @@
+# Large original and cleaned datasets
+02_UnStructered Files/Consumer Complaints Database/
+02_UnStructered Files/Fashion MNIST/*.csv
+02_UnStructered Files/Fashion MNIST/train-images-idx3-ubyte
+02_UnStructered Files/Fashion MNIST/t10k-images-idx3-ubyte
+Analysis/consumer_complaints_cleaned.csv
+Analysis/fashion_mnist_cleaned.csv
+
+# Large Power BI files - keep locally for now
+Analysis/Power BI/*.pbix
+
+# Python temporary files
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# Large compressed source dataset
+03_Semi Structured Files.csv/renttherunway_final_data.json.gz
